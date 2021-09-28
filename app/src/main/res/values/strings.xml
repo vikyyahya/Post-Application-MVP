@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Posts Application</string>
+    <string name="company_name">Company Name</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="lore_ipsum">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</string>
+</resources>
