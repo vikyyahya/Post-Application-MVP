@@ -25,9 +25,8 @@ List 3rd party library.
     implementation 'com.github.chrisbanes:PhotoView:2.0.0'
 
 ## Features
-
-a. List posts from all user
-b. Post detail
-c. User Detail
-d. List photos from user albums
-e. Detail of photo 
+- List posts from all user
+- Post detail
+- User Detail
+- List photos from user albums
+- Detail of photo 
